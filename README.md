@@ -124,8 +124,6 @@ I build intelligent systems combining **software engineering** and **hardware in
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuffledTech&theme=dark&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuffledTech&theme=dark" height="165"/>
-</p>
 
 ---
 
