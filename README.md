@@ -20,60 +20,70 @@ I build intelligent systems combining **software engineering** and **hardware in
 
 ## 🎯 Skills Progress
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:25px;">
-  <!-- HTML -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#FF6F61" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="85,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#FF6F61">HTML</text>
-  </svg>
+## 🎯 Skills Progress (Interactive Dashboard)
 
-  <!-- CSS -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00A2E8" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="80,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00A2E8">CSS</text>
-  </svg>
+<p align="center" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap:25px; justify-items:center;">
 
-  <!-- JavaScript -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#F7DF1E" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="70,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#F7DF1E">JS</text>
-  </svg>
+<!-- HTML -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#FF6F61" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="85,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#FF6F61">HTML</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#FF6F61">85%</text>
+</svg>
 
-  <!-- Python -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#306998" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="65,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#306998">Python</text>
-  </svg>
+<!-- CSS -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00A2E8" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="80,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00A2E8">CSS</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#00A2E8">80%</text>
+</svg>
 
-  <!-- PHP -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#777BB4" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="50,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#777BB4">PHP</text>
-  </svg>
+<!-- JavaScript -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#F7DF1E" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="70,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#F7DF1E">JS</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#F7DF1E">70%</text>
+</svg>
 
-  <!-- Arduino -->
-  <svg viewBox="0 0 36 36" width="120" height="120">
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="2.8"/>
-    <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00979D" stroke-width="2.8" stroke-dasharray="0,100">
-      <animate attributeName="stroke-dasharray" from="0,100" to="60,100" dur="1.5s" fill="freeze"/>
-    </circle>
-    <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00979D">Arduino</text>
-  </svg>
+<!-- Python -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#306998" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="65,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#306998">Python</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#306998">65%</text>
+</svg>
+
+<!-- PHP -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#777BB4" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="50,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#777BB4">PHP</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#777BB4">50%</text>
+</svg>
+
+<!-- Arduino -->
+<svg viewBox="0 0 36 36" width="120" height="120">
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#eee" stroke-width="3"/>
+  <circle cx="18" cy="18" r="15.9155" fill="none" stroke="#00979D" stroke-width="3" stroke-dasharray="0,100">
+    <animate attributeName="stroke-dasharray" from="0,100" to="60,100" dur="1.5s" fill="freeze"/>
+  </circle>
+  <text x="18" y="20.35" font-size="4" text-anchor="middle" fill="#00979D">Arduino</text>
+  <text x="18" y="26" font-size="3" text-anchor="middle" fill="#00979D">60%</text>
+</svg>
+
 </p>
 
 ---
