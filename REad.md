@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Arduino along with php and mysql**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-muffledtech.netlify.app/?fbclid=IwY2xjawQPVUdleHRuA2FlbQIxMABicmlkETFCRmZUTE9zaVF4VlFJWGNxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqpLNFQ9v5ERxUBNyvnJrP2Zt288rk-udMHxJlDTW5lzxzNv7ZqHzHnkRtTS_aem_Bh7ExmUBaYmmlr13GV9L3g](https://my-portfolio-muffledtech.netlify.app/?fbclid=IwY2xjawQPVUdleHRuA2FlbQIxMABicmlkETFCRmZUTE9zaVF4VlFJWGNxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqpLNFQ9v5ERxUBNyvnJrP2Zt288rk-udMHxJlDTW5lzxzNv7ZqHzHnkRtTS_aem_Bh7ExmUBaYmmlr13GV9L3g)
+- 👨‍💻 All of my projects are available at https://my-portfolio-muffledtech.netlify.app
 
 - 📫 How to reach me **sureshnepali158@gmail.com**
 
